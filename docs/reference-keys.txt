@@ -1,4 +1,10 @@
 introduction
 dashboard
 users
+identity-checks
+user-reports
+money
 transactions
+identity-checks-1
+withdrawals
+payment-requests
