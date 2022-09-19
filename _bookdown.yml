@@ -6,4 +6,5 @@ view: https://github.com/AlfredHirsch/admiremeguide/blob/master/%s
 language:
   ui:
     chapter_name: "Chapter "
+rmd_files: ['"index.Rmd", "02-dashboard.Rmd", "03-users.Rmd", "04-money.Rmd"]
 delete_merged_file: true
