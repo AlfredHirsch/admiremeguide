@@ -6,3 +6,5 @@ bookdown::gitbook:
         <li><a href="./">AdmireMe Moderator's Guide</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+edit: https://github.com/AlfredHirsch/admiremeguide/edit/master/%s
+download: ["pdf", "epub"]
