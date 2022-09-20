@@ -11,7 +11,7 @@ Reject and provide a reason if one or more is missing.
 
 ### Examples
 
-(ref:bro) Example of a **correct** identity check, note the presence of a timestamp, the driver's license and the character face. 
+(ref:bro) Example of a **correct** identity check, note the presence of a timestamp, a driver's license and the character face. 
 
 ```{r, echo=FALSE, out.width="100%", fig.cap="(ref:bro)"}
 
