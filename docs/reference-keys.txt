@@ -5,6 +5,7 @@ fig:unnamed-chunk-8
 fig:unnamed-chunk-9
 fig:unnamed-chunk-15
 introduction
+general-information
 dashboard
 users
 identity-checks
@@ -15,3 +16,6 @@ transactions
 withdrawals
 payment-requests
 examples-1
+discord
+tickets-support
+discord-roles

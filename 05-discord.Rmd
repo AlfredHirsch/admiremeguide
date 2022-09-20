@@ -1,0 +1,49 @@
+# Discord
+
+## Tickets support
+
+Tickets are raised for any kind of support a person might need in regard to the website. 
+Tickets can be of Discord Roles, requested on the #roles channel, or Support, requested on the #support channel.  Support tickets can be of General meaning or a priority speed request for payments or verifications, as seen below. 
+
+
+```{r, echo=FALSE, out.width="150%", fig.cap=" ", fig.align='center'}
+
+knitr::include_graphics("https://i.imgur.com/Ucv2oxR.png")
+```
+
+
+When a ticket is opened by someone, it will show up in the ''TICKETS'' tab.  
+Only moderators, management, GTAW management, and the person that opened the ticket have access to the specific channel opened by the ticket.  
+In the image below, we can see there are two tickets to be handled (ticket-28 and ticket-29). 
+
+```{r, echo=FALSE, out.width="150%", fig.cap=" ", fig.align='center'}
+
+knitr::include_graphics("https://i.imgur.com/nng6aK7.png")
+```
+
+Inside it, one can see the reason for the ticket (1), in this example, a Request of Verification. 
+One can also see the commands (2). If you want to handle the ticket yourself, click on ''Claim'' and proceed with the support.
+After the ticket is handled, it can be closed by clicking on the ''Close'' or ''Close With Reason'' buttons. 
+The user that requested the ticket can include additional information on the channel as needed.  
+In general, for now, Moderators are able to handle verification requests and Discord Roles. All others depend on the specific request. 
+
+
+## Discord Roles
+
+Two main roles are given by moderators: Client and Model.
+
+```{r, echo=FALSE, out.width="150%", fig.cap=" ", fig.align='center'}
+
+knitr::include_graphics("https://i.imgur.com/XaxrAy7.png")
+```
+
+Every information is provided by the ticket.
+
+* Open the AdmireMe URL and check if the profile is verified.
+  + If it's not, ask the user to request it [here](https://admireme.world/my/settings/verify).
+  + If it is, hand the Model role on discord.As seen below:
+
+```{r, echo=FALSE, out.width="50%", out.height="50%", fig.show='hold'}
+
+knitr::include_graphics(c("https://i.imgur.com/pl6frwF.png", "https://i.imgur.com/M5Zus24.png"))
+```
