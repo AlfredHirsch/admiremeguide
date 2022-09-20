@@ -24,6 +24,10 @@ Timestamp is to mitigate the use of old screenshots like, for example, of a dead
 Approve if **all** three are present in the same screenshot.  
 Reject and provide a reason if one or more is missing.
 
+
+> _**NOTE**_: You should not repeatedly deny identity checks from the same person unless they keep submitting fake information. It can result in a ban.  
+If a person keeps submitting the wrong information, but it looks like it is in good faith (as a rule of thumb, two to three attempts), flag it to management. 
+
 ***
 
 ### Examples

@@ -39,13 +39,22 @@ This needs to be done **every time**, for **every request**.
 
 knitr::include_graphics("https://i.imgur.com/k16Xuau.png")
 ```
-  
+
+> _**NOTE**_: Currently, moderators can't check the Bank Logs. Process should be similar, with the exception of checking the logs themselves. 
+Take the measures described below and above:
+* Check dates.
+* Check payment history of the User Id, make sure it is not a repeated screenshot.
+* Make sure the proof of payment contains every needed information: routing, amount, destination and that it is a confirmed transaction.
+* Check if amount requested is the same as the one shown in the proof of payment.
+* If in doubt, reject it and flag it to other mods/managment.
+
+
 > _**NOTE**_: Currently, the deposit limit for the platform is 500.000. If for some reason, someone deposits more than that, they would submit two requests with the amount split on each one. This is not wrong and should be approved, with the appropriate checks.
 
 
-* It is good practice, in general, to take a quick look at the previous payment request history of the user. This can be done by, in the Payment Requests window, searching for the User Id on the search bar. This can allow you to quickly check previous requests, find that this person was related to fraud or denied requests before, and check if the screenshot used as proof was already used before.  
-* It is good practice, in general
-Some things are suspicious by nature and deserve a better look, for example:
+* Moderators should take a look at the previous payment request history of the user. This can be done by in the Payment Requests window, searching for the User Id on the search bar. This can allow you to quickly check previous requests, find that this person was related to fraud or denied requests before, and check if the screenshot used as proof was already used before. 
+
+* Some things are suspicious by nature and deserve a better look, for example:
   + Proof of payment is not from the same day, perform a search to see if it was used before.
   + Transactions coming from accounts mentioned in #📣｜ic-emails or #📣｜ic-banned-users. 
 
