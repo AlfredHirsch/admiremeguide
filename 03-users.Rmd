@@ -10,6 +10,20 @@ Approve if *all* three are present in the same screenshot.
 Reject and provide a reason if one or more is missing.
 
 ### Examples
+
+(ref:bro) Example of a **correct** identity check, note the presence of a timestamp, the driver's license and the character face. 
+
+```{r, echo=FALSE, out.width="100%", fig.cap="(ref:bro)"}
+
+knitr::include_graphics("https://i.imgur.com/LFQtHOT.png")
+```
+
+
+(ref:foo) Example of a **wrong** identity check, note the lack of a timestamp. 
+
+```{r, echo=FALSE, out.width="100%", fig.cap="(ref:foo)"}
+
 knitr::include_graphics("https://i.imgur.com/YpSGdgV.png")
+```
 
 ## User reports
