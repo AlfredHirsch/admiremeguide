@@ -2,6 +2,7 @@ introduction
 dashboard
 users
 identity-checks
+examples
 user-reports
 money
 transactions

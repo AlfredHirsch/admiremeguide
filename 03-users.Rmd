@@ -2,4 +2,14 @@
 
 ## Identity checks
 
+The user should provide a screenshot containing the chat with their driver's license (/sdl to themselves) and a timestamp (/timestamp), and their character's face.
+Driver's license is required to guarantee the character's age.
+Face is required to have a visual identification, like any other identification document.
+Timestamp is to mitigate the use of old screenshots like, for example, of a dead character.
+Approve if *all* three are present in the same screenshot.
+Reject and provide a reason if one or more is missing.
+
+### Examples
+knitr::include_graphics("https://i.imgur.com/YpSGdgV.png")
+
 ## User reports
