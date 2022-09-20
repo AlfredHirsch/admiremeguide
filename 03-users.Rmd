@@ -10,7 +10,6 @@ Approve if *all* three are present in the same screenshot.
 Reject and provide a reason if one or more is missing.
 
 ### Examples
-8udy89asu8d9a98d
 
 (ref:bro) Example of a **correct** identity check, note the presence of a timestamp, a driver's license and the character face. 
 

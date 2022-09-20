@@ -5,5 +5,5 @@ edit: https://github.com/AlfredHirsch/admiremeguide/edit/master/%s
 view: https://github.com/AlfredHirsch/admiremeguide/blob/master/%s
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: " "
 
