@@ -1,10 +1,52 @@
 # Money
 
 ## Transactions
+```{r, echo=FALSE, out.width="150%", fig.cap=" ", fig.align='center'}
 
-## Identity checks
+knitr::include_graphics("https://i.imgur.com/z5XWMvS.png")
+```
+This page summarizes every transaction that happens on the website, from subscriptions, post-unlocks, deposits, tips, and withdrawals.  
+There's no hands-on work here. It can be needed to trace specific transactions that are being investigated for any reason, check bugs, or detect suspicious activity (someone instantly transferring all their money to another person, for example).
 
 ## Withdrawals
 
+For now, these are not handled by the Moderation Team.
+
 ## Payment Requests
 
+```{r, echo=FALSE, out.width="150%", fig.cap=" ", fig.align='center'}
+
+knitr::include_graphics("https://i.imgur.com/KOWdcXc.png")
+```
+
+```{r, echo=FALSE, out.width="150%", fig.cap=" ", fig.align='center'}
+
+knitr::include_graphics("https://i.imgur.com/HVqA3Qq.png")
+```
+
+```{r, echo=FALSE, out.width="150%", fig.cap=" ", fig.align='center'}
+
+knitr::include_graphics("https://i.imgur.com/aGTyviD.png")
+```
+
+This is one of the most important tasks of the Moderation Team. Give it a look often to see if there are new ones.  
+Check every transaction carefully. You should access the Business Banking Account [here](https://banking.gta.world/business/40752) to determine if the value claimed by the request was indeed deposited.  
+This needs to be done **every time**, for **every request**.
+
+> _**NOTE**_: Make sure the value the customer defined in the ''Amount'' section of the request is the same amount present in the proof of payment/Bank Account logs.
+
+```{r, echo=FALSE, out.width="150%", fig.cap=" ", fig.align='center'}
+
+knitr::include_graphics("https://i.imgur.com/k16Xuau.png")
+```
+
+***
+
+### Examples
+
+(ref:kra) Example of a transaction that should be **approved**.  Note that #, amount, and date are the same on the proof of payment and on the Business Bank. 
+
+```{r, echo=FALSE, out.width="100%", fig.cap="(ref:kra)", fig.align='center'}
+
+knitr::include_graphics("https://i.imgur.com/5Xa1Tcq.png")
+```

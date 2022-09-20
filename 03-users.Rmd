@@ -1,29 +1,78 @@
 # Users
 
 ## Identity checks
+```{r, echo=FALSE, out.width="150%", fig.cap=" ", fig.align='center'}
 
-The user should provide a screenshot containing the chat with their driver's license (/sdl to themselves) and a timestamp (/timestamp), and their character's face.
-Driver's license is required to guarantee the character's age.
-Face is required to have a visual identification, like any other identification document.
-Timestamp is to mitigate the use of old screenshots like, for example, of a dead character.
-Approve if *all* three are present in the same screenshot.
+knitr::include_graphics("https://i.imgur.com/KumXEN6.png")
+```
+
+```{r, echo=FALSE, out.width="150%", fig.cap=" ", fig.align='center'}
+
+knitr::include_graphics("https://i.imgur.com/1uzOQpQ.png")
+```
+
+```{r, echo=FALSE, out.width="150%", fig.cap=" ", fig.align='center'}
+
+knitr::include_graphics("https://i.imgur.com/g9c0n77.png")
+```
+
+The user should provide a screenshot containing the chat with their driver's license (/sdl to themselves) and a timestamp (/timestamp), and their character's face.  
+Driver's license is required to guarantee the character's age.  
+Face is required to have a visual identification, like any other identification document.  
+Timestamp is to mitigate the use of old screenshots like, for example, of a dead character.  
+  
+Approve if **all** three are present in the same screenshot.  
 Reject and provide a reason if one or more is missing.
+
+***
 
 ### Examples
 
 (ref:bro) Example of a **correct** identity check, note the presence of a timestamp, a driver's license and the character face. 
 
-```{r, echo=FALSE, out.width="100%", fig.cap="(ref:bro)"}
+```{r, echo=FALSE, out.width="100%", fig.cap="(ref:bro)", fig.align='center'}
 
 knitr::include_graphics("https://i.imgur.com/LFQtHOT.png")
 ```
 
-
+  
+  
 (ref:foo) Example of a **wrong** identity check, note the lack of a timestamp. 
 
-```{r, echo=FALSE, out.width="100%", fig.cap="(ref:foo)"}
+```{r, echo=FALSE, out.width="100%", fig.cap="(ref:foo)", fig.align='center'}
 
 knitr::include_graphics("https://i.imgur.com/YpSGdgV.png")
 ```
 
+  
+  
+(ref:mlo) Example of a **wrong** identity check, note the lack of a timestamp and the character's face. 
+
+```{r, echo=FALSE, out.width="100%", fig.cap="(ref:mlo)", fig.align='center'}
+
+knitr::include_graphics("https://i.imgur.com/M0pCIzb.png")
+```
+
+  
+  
+(ref:tro) Example of a **wrong** identity check, note the lack of a timestamp and the character's face being on a different image. 
+
+```{r, echo=FALSE, out.width="50%", out.height="50%", fig.cap="(ref:tro)", fig.show='hold', fig.align='center'}
+
+knitr::include_graphics(c("https://i.imgur.com/4qMOAtk.png", "https://i.imgur.com/2MRs3fO.png"))
+```
+
+  
+  
+(ref:cro) Example of a **wrong** identity check,identification card fraud. 
+
+```{r, echo=FALSE, out.width="50%", out.height="50%", fig.cap="(ref:cro)", fig.show='hold', fig.align='center'}
+
+knitr::include_graphics("https://i.imgur.com/fTJf7US.png")
+```
+
+
+
 ## User reports
+
+For now, these are not handled by the Moderation Team.

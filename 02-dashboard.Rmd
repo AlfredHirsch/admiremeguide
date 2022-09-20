@@ -1,2 +1,8 @@
 # Dashboard
-wip
+```{r, echo=FALSE, out.width="150%", fig.cap=" ", fig.align='center'}
+
+knitr::include_graphics("https://i.imgur.com/1X5soLh.png")
+```
+  
+This is the homepage of the Admin Panel. Summarized data about users, payments, and content can be found here. It is just a tracking panel.
+

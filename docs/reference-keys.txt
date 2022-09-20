@@ -1,5 +1,9 @@
-fig:unnamed-chunk-1
-fig:unnamed-chunk-2
+fig:unnamed-chunk-5
+fig:unnamed-chunk-6
+fig:unnamed-chunk-7
+fig:unnamed-chunk-8
+fig:unnamed-chunk-9
+fig:unnamed-chunk-15
 introduction
 dashboard
 users
@@ -8,6 +12,6 @@ examples
 user-reports
 money
 transactions
-identity-checks-1
 withdrawals
 payment-requests
+examples-1

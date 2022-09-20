@@ -23,7 +23,7 @@
 <meta name="author" content="AdmireMe" />
 
 
-<meta name="date" content="2022-09-19" />
+<meta name="date" content="2022-09-20" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -85,9 +85,11 @@
 <li class="chapter" data-level="4" data-path="money.html"><a href="money.html"><i class="fa fa-check"></i><b>4</b> Money</a>
 <ul>
 <li class="chapter" data-level="4.1" data-path="transactions.html"><a href="transactions.html"><i class="fa fa-check"></i><b>4.1</b> Transactions</a></li>
-<li class="chapter" data-level="4.2" data-path="identity-checks-1.html"><a href="identity-checks-1.html"><i class="fa fa-check"></i><b>4.2</b> Identity checks</a></li>
-<li class="chapter" data-level="4.3" data-path="withdrawals.html"><a href="withdrawals.html"><i class="fa fa-check"></i><b>4.3</b> Withdrawals</a></li>
-<li class="chapter" data-level="4.4" data-path="payment-requests.html"><a href="payment-requests.html"><i class="fa fa-check"></i><b>4.4</b> Payment Requests</a></li>
+<li class="chapter" data-level="4.2" data-path="withdrawals.html"><a href="withdrawals.html"><i class="fa fa-check"></i><b>4.2</b> Withdrawals</a></li>
+<li class="chapter" data-level="4.3" data-path="payment-requests.html"><a href="payment-requests.html"><i class="fa fa-check"></i><b>4.3</b> Payment Requests</a>
+<ul>
+<li class="chapter" data-level="4.3.1" data-path="payment-requests.html"><a href="payment-requests.html#examples-1"><i class="fa fa-check"></i><b>4.3.1</b> Examples</a></li>
+</ul></li>
 </ul></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
@@ -111,26 +113,63 @@
             <section class="normal" id="section-">
 <div id="identity-checks" class="section level2 hasAnchor" number="3.1">
 <h2><span class="header-section-number">3.1</span> Identity checks<a href="identity-checks.html#identity-checks" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>The user should provide a screenshot containing the chat with their driver’s license (/sdl to themselves) and a timestamp (/timestamp), and their character’s face.
-Driver’s license is required to guarantee the character’s age.
-Face is required to have a visual identification, like any other identification document.
-Timestamp is to mitigate the use of old screenshots like, for example, of a dead character.
-Approve if <em>all</em> three are present in the same screenshot.
+<div class="figure" style="text-align: center">
+<img src="https://i.imgur.com/KumXEN6.png" alt=" " width="150%" />
+<p class="caption">
+</p>
+</div>
+<div class="figure" style="text-align: center">
+<img src="https://i.imgur.com/1uzOQpQ.png" alt=" " width="150%" />
+<p class="caption">
+</p>
+</div>
+<div class="figure" style="text-align: center">
+<img src="https://i.imgur.com/g9c0n77.png" alt=" " width="150%" />
+<p class="caption">
+</p>
+</div>
+<p>The user should provide a screenshot containing the chat with their driver’s license (/sdl to themselves) and a timestamp (/timestamp), and their character’s face.<br />
+Driver’s license is required to guarantee the character’s age.<br />
+Face is required to have a visual identification, like any other identification document.<br />
+Timestamp is to mitigate the use of old screenshots like, for example, of a dead character.</p>
+<p>Approve if <strong>all</strong> three are present in the same screenshot.<br />
 Reject and provide a reason if one or more is missing.</p>
+<hr />
 <div id="examples" class="section level3 hasAnchor" number="3.1.1">
 <h3><span class="header-section-number">3.1.1</span> Examples<a href="identity-checks.html#examples" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 
-<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-1"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-5"></span>
 <img src="https://i.imgur.com/LFQtHOT.png" alt="Example of a correct identity check, note the presence of a timestamp, a driver’s license and the character face." width="100%" />
 <p class="caption">
 Figure 3.1: Example of a <strong>correct</strong> identity check, note the presence of a timestamp, a driver’s license and the character face.
 </p>
 </div>
 
-<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-2"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-6"></span>
 <img src="https://i.imgur.com/YpSGdgV.png" alt="Example of a wrong identity check, note the lack of a timestamp." width="100%" />
 <p class="caption">
 Figure 3.2: Example of a <strong>wrong</strong> identity check, note the lack of a timestamp.
+</p>
+</div>
+
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-7"></span>
+<img src="https://i.imgur.com/M0pCIzb.png" alt="Example of a wrong identity check, note the lack of a timestamp and the character’s face." width="100%" />
+<p class="caption">
+Figure 3.3: Example of a <strong>wrong</strong> identity check, note the lack of a timestamp and the character’s face.
+</p>
+</div>
+
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-8"></span>
+<img src="https://i.imgur.com/4qMOAtk.png" alt="Example of a wrong identity check, note the lack of a timestamp and the character’s face being on a different image." width="50%" height="50%" /><img src="https://i.imgur.com/2MRs3fO.png" alt="Example of a wrong identity check, note the lack of a timestamp and the character’s face being on a different image." width="50%" height="50%" />
+<p class="caption">
+Figure 3.4: Example of a <strong>wrong</strong> identity check, note the lack of a timestamp and the character’s face being on a different image.
+</p>
+</div>
+
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-9"></span>
+<img src="https://i.imgur.com/fTJf7US.png" alt="Example of a wrong identity check,identification card fraud." width="50%" height="50%" />
+<p class="caption">
+Figure 3.5: Example of a <strong>wrong</strong> identity check,identification card fraud.
 </p>
 </div>
 </div>

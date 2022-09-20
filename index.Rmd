@@ -11,5 +11,9 @@ This document was created with the objective of having a proper written place fo
 Use it as a guide or a place to look at when in doubt.
 It will take the approach of covering each tab the Moderator has access to. You can select a specific chapter in the sidebar on the left.
 
-Try to solve your questions here. Contact other moderators if needed, and contact Executives if really needed.
+The Admin Panel can be opened [here](https://admireme.world/admin). 
+
+Try to solve your questions with this guide. Contact other moderators if needed, and contact Executives if really needed.
+
+You can right-click to expand every image of this document.
 
