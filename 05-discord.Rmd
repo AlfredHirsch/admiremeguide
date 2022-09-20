@@ -47,3 +47,5 @@ Every information is provided by the ticket.
 
 knitr::include_graphics(c("https://i.imgur.com/pl6frwF.png", "https://i.imgur.com/M5Zus24.png"))
 ```
+
+* If it is the Client role, it doesn't need to be scrutinized like that.
