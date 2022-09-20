@@ -1,6 +1,6 @@
 --- 
 title: "AdmireMe Moderator's Handbook"
-author: "AdmireMe"
+author: "Moderation Team"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
