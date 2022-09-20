@@ -22,7 +22,7 @@ knitr::include_graphics("https://i.imgur.com/nng6aK7.png")
 ```
 
 Inside it, one can see the reason for the ticket (1), in this example, a Request of Verification. 
-One can also see the commands (2). If you want to handle the ticket yourself, click on ''Claim'' and proceed with the support.
+One can also see the commands (2). If you want to handle the ticket yourself, click on ''Claim'' and proceed with the support.  
 After the ticket is handled, it can be closed by clicking on the ''Close'' or ''Close With Reason'' buttons. 
 The user that requested the ticket can include additional information on the channel as needed.  
 In general, for now, Moderators are able to handle verification requests and Discord Roles. All others depend on the specific request. 
