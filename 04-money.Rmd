@@ -42,6 +42,7 @@ knitr::include_graphics("https://i.imgur.com/k16Xuau.png")
 
 > _**NOTE**_: Currently, moderators can't check the Bank Logs. Process should be similar, with the exception of checking the logs themselves. 
 Take the measures described below and above:
+
 * Check dates.
 * Check payment history of the User Id, make sure it is not a repeated screenshot.
 * Make sure the proof of payment contains every needed information: routing, amount, destination and that it is a confirmed transaction.
